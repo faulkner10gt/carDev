@@ -5,7 +5,7 @@
         <api_name>x_snc_cars.cars</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>base class</description>
         <name>cars</name>
         <script><![CDATA[var cars = Class.create();
 cars.prototype = {
@@ -18,13 +18,13 @@ cars.prototype = {
         <sys_created_by>neha</sys_created_by>
         <sys_created_on>2019-10-03 21:48:03</sys_created_on>
         <sys_id>e71e60d1db904010caf55268dc961916</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>cars</sys_name>
         <sys_package display_value="Cars" source="x_snc_cars">e02ca8dddb504010caf55268dc961942</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Cars">e02ca8dddb504010caf55268dc961942</sys_scope>
         <sys_update_name>sys_script_include_e71e60d1db904010caf55268dc961916</sys_update_name>
-        <sys_updated_by>neha</sys_updated_by>
-        <sys_updated_on>2019-10-03 21:48:03</sys_updated_on>
+        <sys_updated_by>Neha</sys_updated_by>
+        <sys_updated_on>2019-10-03 21:49:58</sys_updated_on>
     </sys_script_include>
 </record_update>
